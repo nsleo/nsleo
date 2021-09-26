@@ -1,8 +1,8 @@
 hi there, i'm Leonardo, hope u have fun
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="30">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="500">
 
-
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 
 
