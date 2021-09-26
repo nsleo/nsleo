@@ -1,6 +1,6 @@
 hi there, i'm Leonardo, hope u have fun
 
-<img src="{https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="30">
+<code><img src="{https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="30"/></code>
 
 
 
