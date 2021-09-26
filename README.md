@@ -1,15 +1,15 @@
-### hi there 👋 i'm Leonardo, hope u have fun
+### <h2 style="text-align:center;">hi there 👋 i'm Leonardo, hope u have fun</h2>
 
 <img src=https://github.com/nsleo/gifs/blob/main/gifffff.gif width="400">
 
 
 
 
-i 
 
-like naruto and pokemon
-
-:guitar: play electric (and not) guitar and bass
+<p>💬 Ask me about naruto and pokemon :</p>
+<p>🎹 i make music :guitar:</p>
+<p>:earth_americas: i'm here to help people 🧑‍🤝‍🧑</p>
+ 
 
 
 
