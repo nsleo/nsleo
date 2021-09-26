@@ -16,6 +16,8 @@ hi there 👋 i'm Leonardo
 <p>🎹 i make music :guitar:</p>
 <p>:earth_americas: my goal is help people, wherever i'm  🧑‍</p>
 
+##
+
 <p align='center'>
 <a href="#">
  <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=dark" width="350" />
@@ -25,8 +27,7 @@ hi there 👋 i'm Leonardo
 </a>
 </p>
 
-
-
+##
 
 <p>📫 find me here: 👇</p>
 
@@ -43,7 +44,7 @@ hi there 👋 i'm Leonardo
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
- 
+##
  
 keep safe an have fun :mask:
 
