@@ -16,15 +16,14 @@ hi there 👋 i'm Leonardo
 <p>🎹 i make music :guitar:</p>
 <p>:earth_americas: my goal is help people, wherever i'm  🧑‍</p>
 
+<p align='center'>
 <a href="#">
  <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=dark" width="350" />
 </a>
 <a href="#">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=dark" width="350" />
 </a>
-<a href="#">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsleo" width =350 />
-</a>
+</p>
 
 
 
