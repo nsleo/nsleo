@@ -1,3 +1,11 @@
+hi there, i'm Leonardo, hope u have fun
+
+<code><img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}"/></code>
+
+
+
+
+
 ### Hi there 👋
 
 <!--
