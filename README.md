@@ -46,5 +46,4 @@ hi there 👋 i'm Leonardo
 
 ##
  
-### keep safe an have fun :mask:
-
+__*Keep safe and have fun :mask:*__
