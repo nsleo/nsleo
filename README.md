@@ -1,13 +1,24 @@
-hi there, i'm Leonardo, hope u have fun
+### hi there 👋 i'm Leonardo, hope u have fun
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="500">
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<img src=https://github.com/nsleo/gifs/blob/main/gifffff.gif width="400">
 
 
 
-### Hi there 👋
 
+i 
+
+like naruto and pokemon
+
+:guitar: play electric (and not) guitar and bass
+
+
+
+
+
+
+
+
+### use mask :mask:
 <!--
 **nsleo/nsleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
