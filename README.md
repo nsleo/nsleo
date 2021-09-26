@@ -1,12 +1,20 @@
-### <h2 style="text-align:center;">hi there 👋 i'm Leonardo, hope u have fun</h2>
+<h2 align='center'>
+ hi there 👋 i'm Leonardo, hope u have fun
+</h2>
 
+<p align='center'>
 <img src=https://github.com/nsleo/gifs/blob/main/gifffff.gif width="400">
+</p>
+
+<strong> 
+ <p align='center'>
+👦 about me
+ </p>
+</strong>
 
 
 
-
-
-<p>💬 Ask me about naruto and pokemon :</p>
+<p>💬 Ask me about naruto, pokemon and dc speedsters ⚡</p>
 <p>🎹 i make music :guitar:</p>
 <p>:earth_americas: i'm here to help people 🧑‍🤝‍🧑</p>
  
@@ -16,7 +24,7 @@
 
 
 
-
+<h1 align='center'>
 
 ### use mask :mask:
 <!--
