@@ -15,7 +15,22 @@ hi there 👋 i'm Leonardo
 <p>💬 ask me about naruto, pokemon and dc speedsters ⚡</p>
 <p>🎹 i make music :guitar:</p>
 <p>:earth_americas: my goal is help people, wherever i'm  🧑‍</p>
+
+<a href="#">
+ <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=dark" width="350" />
+</a>
+<a href="#">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=dark" width="350" />
+</a>
+<a href="#">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsleo" width =350 />
+</a>
+
+
+
+
 <p>📫 find me here: 👇</p>
+
 <a href="https://www.linkedin.com/in/leonardonunesdasilva">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
