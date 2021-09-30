@@ -20,7 +20,7 @@ hi there 👋 i'm Leonardo
 
 <p align='center'>
 <a href="#">
- <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="350" />
+ <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="490" />
 </a>
 <a href="#">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="350" />
