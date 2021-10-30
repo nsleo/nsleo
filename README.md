@@ -1,6 +1,6 @@
 
 <h2>
-hi there 👋 i'm Leonardo | Frontend Developer
+hi there 👋 i'm Leonardo | frontend developer
 </h1>
 
 <p>
