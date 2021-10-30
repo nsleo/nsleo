@@ -4,6 +4,10 @@ hi there 👋 i'm Leonardo
 </h1>
 
 <p>
+  <img src=https://github.com/nsleo/gifs/blob/main/lofibedroom.gif width="400">
+  </p>
+
+<p>
 <a href="#">
  <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="391" />
 </a>
