@@ -1,5 +1,5 @@
 
-<h2 align='center'>
+<h2>
 hi there 👋 i'm Leonardo
 </h1>
 
