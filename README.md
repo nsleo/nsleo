@@ -3,12 +3,12 @@
 hi there 👋 i'm Leonardo
 </h1>
 
-<p align='center'>
+<p>
 <a href="#">
- <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="490" />
+ <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="391" />
 </a>
 <a href="#">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="350" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="280" />
 </a>
 </p>
 
