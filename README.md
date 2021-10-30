@@ -1,22 +1,7 @@
-<h1 align='center'>
+
+<h2 align='center'>
 hi there 👋 i'm Leonardo
 </h1>
-
-<p align='center'>
-<img src=https://github.com/nsleo/gifs/blob/main/lofibedroom.gif width="400">
-</p>
-
-<strong> 
- <p align='center'>
-👦 about me
- </p>
-</strong>
-
-<p>💬 ask me about naruto, pokemon and dc speedsters ⚡</p>
-<p>🎹 i make music :guitar:</p>
-<p>:earth_americas: my goal is help people, wherever i'm  🧑‍</p>
-
-##
 
 <p align='center'>
 <a href="#">
@@ -26,6 +11,13 @@ hi there 👋 i'm Leonardo
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="350" />
 </a>
 </p>
+
+####
+<div style="display: block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width=50 />
+</div>
 
 ##
 
