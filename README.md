@@ -1,11 +1,13 @@
 
 <h2>
-hi there 👋 i'm Leonardo
+hi there 👋 i'm Leonardo | Frontend Developer
 </h1>
 
 <p>
   <img src=https://github.com/nsleo/gifs/blob/main/lofibedroom.gif width="400">
   </p>
+
+##
 
 <p>
 <a href="#">
@@ -16,7 +18,10 @@ hi there 👋 i'm Leonardo
 </a>
 </p>
 
-####
+##
+
+<p>:computer: actually working on: 📚</p>
+
 <div style="display: block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50 />
