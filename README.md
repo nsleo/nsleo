@@ -7,10 +7,10 @@ hi there 👋 i'm Leonardo | frontend developer
 
 <p>
 <a href="#">
- <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="391" />
+ <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="392" />
 </a>
 <a href="#">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="280" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="226" />
 </a>
 </p>
 
