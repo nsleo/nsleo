@@ -3,10 +3,6 @@
 hi there 👋 i'm Leonardo | frontend developer
 </h1>
 
-<p>
-  <img src=https://github.com/nsleo/gifs/blob/main/lofibedroom.gif width="400">
-  </p>
-
 ##
 
 <p>
