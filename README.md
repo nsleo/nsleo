@@ -46,10 +46,10 @@ Welcome to my GitHub.
 
 ---
 
-<span>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=merko&bg_color=000000" width="392" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=merko&bg_color=000000" width="238.5" />
-</span>
+</div>
 
 ---
 
