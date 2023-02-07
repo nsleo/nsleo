@@ -12,24 +12,24 @@ Welcome to my GitHub.
 
 #### Knowledges
 <span>
-  <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red">
-  <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4">
 </span>
 
 
 #### Usefull tools
 <span>
-  <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
 </span>
 
 
 #### Spaces
 <span>
-  <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=0052CC">
-  <img src="https://img.shields.io/badge/Notion-323330?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=0052CC">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
 ---
@@ -39,16 +39,16 @@ Welcome to my GitHub.
 - <a href="mailto:leo2000nunes@gmail.com">my email</a>
 #### Find me here:
 <span>
-  <img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0077B5">
-  <img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=E4405F">
-  <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
 </span>
 
 ---
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="392" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="226" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=merko&bg_color=000000" width="392" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=merko&bg_color=000000" width="238.5" />
 </span>
 
 ---
