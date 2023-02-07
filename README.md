@@ -1,49 +1,56 @@
+### Hi there 👋
 
-<h2>
-hi there 👋 i'm Leo 
-</h1>
+---
 
-##
+I'm Leo.   
+I'm a front-end developer.   
+Welcome to my GitHub.   
 
-<p>
-<a href="#">
- <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="392" />
-</a>
-<a href="#">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="226" />
-</a>
-</p>
+---
 
-##
+### :computer: Actually focusing on: 📚
 
-<p>:computer: actually working on: 📚</p>
+#### Knowledges
+<span>
+  <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red">
+  <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4">
+</span>
 
-<div style="display: block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=50 />
-</div>
 
-##
+#### Usefull tools
+<span>
+  <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
+</span>
 
-<p>📫 find me here: 👇</p>
 
-<a href="https://www.linkedin.com/in/leonardonunesdasilva" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a  target=_blank href="https://www.instagram.com/n.s.leo/">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a target=_blank
-   href="mailto:leo2000nunes@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a target=_blank
-   href="https://twitter.com/Leotelho">
- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
+#### Spaces
+<span>
+  <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=0052CC">
+  <img src="https://img.shields.io/badge/Notion-323330?style=for-the-badge&logo=notion&logoColor=white">
+</span>
 
-##
- 
-__*Keep safe and have fun :mask:*__
+---
+
+### 📫 Other links: 👇
+- <a href="nsleo.github.io">my website</a>
+- <a href="mailto:leo2000nunes@gmail.com">my email</a>
+#### Find me here:
+<span>
+  <img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0077B5">
+  <img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
+</span>
+
+---
+
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=nsleo&show_icons=true&count_private=true&theme=radical" width="392" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsleo&theme=radical" width="226" />
+</span>
+
+---
+
+##### *Don't forget, we're all humans, keep safe and have fun*
