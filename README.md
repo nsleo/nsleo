@@ -39,13 +39,13 @@ Welcome to my GitHub.
 - <a href="mailto:leo2000nunes@gmail.com">my email</a>
 #### Find me here:
 <span>
-  <a href="https://linkedin/in/nsleo" target="_blank">
+  <a href="https://www.linkedin/in/nsleo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5">
   </a>
-  <a href="https://instagram.com/n.s.leo" target="_blank">
+  <a href="https://www.instagram.com/n.s.leo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F">
   </a>
-  <a href="https://twitter.com/leotelho" target="_blank">
+  <a href="https://www.twitter.com/leotelho" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
   </a>  
 </span>
