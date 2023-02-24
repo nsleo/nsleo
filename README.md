@@ -22,6 +22,7 @@ Welcome to my GitHub.
 #### Usefull tools
 <span>
   <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
+  <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
 
