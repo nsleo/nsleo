@@ -15,7 +15,6 @@ Welcome to my GitHub.
   <img target=none src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4">
 </span>
 
 
@@ -31,6 +30,12 @@ Welcome to my GitHub.
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=0052CC">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</span>
+
+#### *Not on my focus
+<span>
+  
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4">
 </span>
 
 ---
